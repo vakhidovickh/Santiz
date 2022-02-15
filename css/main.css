@@ -1,0 +1,12 @@
+body {
+  background-color: cornflowerblue; }
+  body .nav .navbar-brand a {
+    text-decoration: none; }
+  body .col-xl-6 {
+    align-items: center; }
+    body .col-xl-6 img {
+      border-radius: 50%;
+      width: 11%;
+      height: 90%; }
+
+/*# sourceMappingURL=main.css.map */
